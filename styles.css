@@ -25,3 +25,17 @@ button {
     font-weight: bold;
     font-size: 20px;
 }
+
+ul {
+    margin-top: 20px;
+    padding-left: 0;
+}
+
+li {
+    list-style-type: none;
+    margin-top: 5px;
+}
+
+a {
+    color: #6482AD;
+}
